@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecycleAndGridView</string>
+    <string name="grid_layout_manager">Grid Layout Manager</string>
+</resources>
